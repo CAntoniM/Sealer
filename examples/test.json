@@ -1,0 +1,45 @@
+{
+    "packs": [
+        {
+            "set_id": "dsk",
+            "count": 10,
+            "type": "booster"
+        }
+    ],
+    "types": [
+        {
+            "name": "booster",
+            "slots": [
+                {
+                    "rarities": [
+                        "common"
+                    ],
+                    "weights": [
+                        1
+                    ],
+                    "count": 10
+                },
+                {
+                    "rarities": [
+                        "uncommon"
+                    ],
+                    "weights": [
+                        1
+                    ],
+                    "count": 3 
+                },
+                {
+                    "rarities": [
+                        "rare",
+                        "mythic"
+                    ],
+                    "weights": [
+                        2,
+                        3
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}

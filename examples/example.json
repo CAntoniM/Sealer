@@ -1,0 +1,654 @@
+{
+    "packs": [
+        {
+            "set_id": "lea",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "leb",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "2ed",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "3ed",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "4ed",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "6ed",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "7ed",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "8ed",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "9ed",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "10e",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "m10",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "m11",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "m12",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "m13",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "m14",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "m15",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "ori",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "m19",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "m20",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "m21",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "fdn",
+            "count": 1,
+            "type": "booster"
+        },
+        {
+            "set_id": "arn",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "atq",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "leg",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "drk",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "fem",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "ice",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "hml",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "all",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "mir",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "vis",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "wth",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "tmp",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "sth",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "exo",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "usg",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "ulg",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "uds",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "mmq",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "nem",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "pcy",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "inv",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "pls",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "apc",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "ody",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "tor",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "jud",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "ons",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "lgn",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "scg",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "mrd",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "dst",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "5dn",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "chk",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "bok",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "sok",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "rav",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "gpt",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "dis",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "csp",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "tsp",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "plc",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "fut",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "lrw",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "mor",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "shm",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "eve",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "ala",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "con",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "arb",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "zen",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "wwk",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "roe",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "som",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "mbs",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "nph",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "isd",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "dka",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "avr",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "rtr",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "gtc",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "dgm",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "ths",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "bng",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "jou",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "ktk",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "frf",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "dtk",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "bfz",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "ogw",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "soi",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "emn",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "kld",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "aer",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "akh",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "hou",
+            "count": "1",
+            "type": "booster"
+        },{
+          "set_id": "xln",
+          "count": "1",
+          "type": "booster" 
+        },
+        {
+            "set_id": "rix",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "dom",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "grn",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "rna",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "war",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "eld",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "thb",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "iko",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "znr",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "khm",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "stx",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "afr",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "mid",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "vow",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "neo",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "snc",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "dmu",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "bro",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "one",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "mom",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id":"woe",
+            "count":"1",
+            "type":"booster"
+        },
+        {
+            "set_id": "lci",
+            "count":"1",
+            "type":"booster"
+        },
+        {
+            "set_id":"mkm",
+            "count": "1",
+            "type":"booster"
+        },
+        {
+            "set_id": "otj",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "blb",
+            "count": "1",
+            "type": "booster"
+        },
+        {
+            "set_id": "dsk",
+            "count": "1",
+            "type": "booster"
+        }
+    ],
+    "types": [
+        {
+            "name": "booster",
+            "slots": [
+                {
+                    "rarities": [
+                        "common"
+                    ],
+                    "weights": [
+                        1
+                    ],
+                    "count": 11
+                },
+                {
+                    "rarities": [
+                        "uncommon"
+                    ],
+                    "weights": [
+                        1
+                    ],
+                    "count": 3 
+                },
+                {
+                    "rarities": [
+                        "rare",
+                        "mythic"
+                    ],
+                    "weights": [
+                        2,
+                        3
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}
